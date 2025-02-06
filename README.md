@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao Meu Perfil! 😁
 
- <div>
+<div>
    <a href="https://github.com/ayla16-pontes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayla16-pontes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayla16-pontes&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -13,10 +13,9 @@
 </div>
  
 <br>
- 
- 
+
 <div>
-  <a href= "https://wa.me/5592992356808"><img <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">></a>
+  <a href= "https://wa.me/5592992356808"><img <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "aylapontes03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/ayla-maquin%C3%A9-337870234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img         
   src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
